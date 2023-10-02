@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\bin\Debug\Dikdörtgen alan ve çevre hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\bin\Debug\Dikdörtgen alan ve çevre hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\bin\Debug\Dikdörtgen alan ve çevre hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\obj\Debug\Dikdörtgen alan ve çevre hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\obj\Debug\Dikdörtgen alan ve çevre hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\obj\Debug\Dikdörtgen_alan_ve_çevre_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\obj\Debug\Dikdörtgen_alan_ve_çevre_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\obj\Debug\Dikdörtgen alan ve çevre hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\obj\Debug\Dikdörtgen alan ve çevre hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\obj\Debug\Dikdörtgen alan ve çevre hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Dikdörtgen alan ve çevre hesaplama\Dikdörtgen alan ve çevre hesaplama\obj\Debug\Dikdörtgen alan ve çevre hesaplama.pdb
